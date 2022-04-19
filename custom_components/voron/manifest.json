@@ -1,0 +1,10 @@
+{
+    "domain": "homeassistantvoron",
+    "name": "Home Assistant Voron",
+    "documentation":  "https://github.com/barecool/homessistant-voron",
+    "issue_tracker": "https://github.com/barecool/homessistant-voron/issues",
+    "dependencies": [],
+    "codeowners": ["@barecool"],
+    "requirements": [],
+    "version": "0.0.1"
+  }
