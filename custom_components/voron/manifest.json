@@ -1,5 +1,5 @@
 {
-    "domain": "homeassistantvoron",
+    "domain": "voron",
     "name": "Home Assistant Voron",
     "documentation":  "https://github.com/barecool/homessistant-voron",
     "issue_tracker": "https://github.com/barecool/homessistant-voron/issues",

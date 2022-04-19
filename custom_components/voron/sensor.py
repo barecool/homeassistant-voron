@@ -2,7 +2,7 @@
 
 configuration.yaml
 sensor:
-  - platform: homeassistantvoron
+  - platform: voron
     name: PRINTER_NAME
     host: IP_ADDRESS
     scan_interval: 10 (optional, default 10)
