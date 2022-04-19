@@ -1,5 +1,5 @@
 """Voron printer integration"""
-DOMAIN = "homeassistantvoron"
+DOMAIN = "voron"
 
 
 def setup(hass, config):

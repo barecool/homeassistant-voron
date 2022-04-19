@@ -2,6 +2,7 @@
     "name": "Homeassistant Voron",
     "hacs": "1.0.0",
     "domains": [
+        "voron",
         "binary_sensor",
         "sensor",
         "switch"
