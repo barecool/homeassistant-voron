@@ -78,7 +78,7 @@ from homeassistant.helpers.entity import Entity
 from homeassistant.helpers.typing import HomeAssistantType, StateType
 from homeassistant.util import Throttle
 
-from . import DOMAIN
+DOMAIN = "voron"
 
 _LOGGER = logging.getLogger(__name__)
 
